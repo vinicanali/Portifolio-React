@@ -1,0 +1,9 @@
+.custom-with{
+    width: 20rem;
+}
+
+
+.scrolllDown{
+    overflow: auto;
+    max-height: 555px;
+}

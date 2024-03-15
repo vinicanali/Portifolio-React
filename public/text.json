@@ -1,0 +1,94 @@
+{
+    "name" : "Vinícius Canali",
+    "description": "Hello, my name is Vinícios Canali and i want to be a developer. I seek to merge aesthetics and functionality. With proficiency in HTML, CSS, and JavaScript, every line of code is an expression of this pursuit of harmony between form and function.",
+    "github": "https://github.com/vinicanali",
+    "contact": 
+      {
+        "linkedin": {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/vinicius-canali-78899024b/",
+          "img": "src/assets/Link.png"
+        },
+        "twitter": {
+          "name": "X",
+          "url": "https://twitter.com/vinicanali_",
+          "img": "src/assets/X.png"
+        } ,
+        "insta": {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/vinicanali_/",
+          "img": "src/assets/Insta.png"
+        } 
+      },
+    "skills":
+      {
+
+        "frontend": {
+
+          "name0": "React Js",
+          "image0":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+
+          "name1": "HTML",
+          "image1": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+
+          "name2": "CSS",
+          "image2":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+
+          "name3": "JavaScript",
+          "image3": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+
+          "name4": "Bootstrap",
+          "image4": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
+
+        },
+
+        "backend": {
+
+          "name0": "Node Js",
+          "image0": "https://nodejs.org/static/images/logo.svg",
+
+          "name1": "MySQL",
+          "image1": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+
+        },
+        "other": {
+
+          "name0": "Git",
+          "image0":"https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png",
+
+          "name1": "GitHub",
+          "image1": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+
+          "name2": "VS Code",
+          "image2":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"
+
+        }
+      },
+    "education": 
+      {
+        "primeira": {
+          "id": 0,
+          "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fschool%2Fletrasulisboa%2F&psig=AOvVaw0hKQXpmnHmzhNmFSyBb1aY&ust=1708633950627000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDKlM-jvYQDFQAAAAAdAAAAABAE",
+          "imgurl": "src/assets/Asset 8-8.png",
+          "school": "Faculty of Letter of University of Lisbon",
+          "date": "Sep 2022 - Dec 2025",
+
+          "degree": "Undergraduate in Philosophy"
+        },
+        "segunda": {
+          "id": 1,
+          "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etic.pt%2Ftipo-de-curso%2Fcursos-etic%2F&psig=AOvVaw3nTDkI8Wpi5d_efjL_k1E7&ust=1708633995578000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDcx-SjvYQDFQAAAAAdAAAAABAP",
+          "imgurl": "src/assets/Asset 9-8.png",
+          "school": "ETIC",
+          "date": "Oct 2023 - Jun 2024",
+
+          "degree": " Other Professional Formation in Web Development  "
+        }
+      },
+    "TimeLineData": 
+      {
+        "year": 2023, 
+        "text": "Started my journey"
+      }
+ 
+}
